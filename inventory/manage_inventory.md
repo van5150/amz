@@ -85,6 +85,7 @@ Audience|All public (+36 month)|All public (+36 month)|All public (+36 month)
 Product Description|Rubik’s Cube version 3X3|Rubik’s Cube version 5X5|Rubik’s Cube version 360º
 
 리스팅을 복사하려면 :
+
 1. Inventory 메뉴에서 Manage Inventory 를 선택하십시오.
 2. 복사할 제품을 찾으십시오.
 3. 복사할 제품의 드롭다운 메뉴에서 **Copy listing** 을 선택하십시오. 템플릿은 SKU 및 제품 식별자를 제외하고는 원래 리스팅의 제품 속성으로 채워집니다.
